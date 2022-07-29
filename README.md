@@ -1,5 +1,5 @@
 # Undead-Hell
-A Survival 2D Waves-Based Game
+A Survival 2D Waves-Based Game using Javascript and Phaser
 
 You can try this game at the following link:
 
